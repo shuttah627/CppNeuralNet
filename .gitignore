@@ -1,0 +1,9 @@
+/*
+/*/
+
+!.gitignore
+!/NeuralNet/
+
+/NeuralNet/Debug/
+*.vcxproj
+*.vcxproj.*
